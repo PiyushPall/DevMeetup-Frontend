@@ -200,9 +200,9 @@ npm run dev
 
 Experience **DevMeetup** live in your browser:
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APPLICATION-2563EB?style=for-the-badge)](https://ais-pre-ra2go74y5zxxq7ftybm44i-874841661966.asia-southeast1.run.app)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-OPEN_APPLICATION-2563EB?style=for-the-badge)](https://dev-meetup.vercel.app/)
 
-- **Live Demo URL:** https://ais-pre-ra2go74y5zxxq7ftybm44i-874841661966.asia-southeast1.run.app
+- **Live Demo URL:** https://dev-meetup.vercel.app/
 
 ---
 
